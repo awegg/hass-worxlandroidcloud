@@ -1,8 +1,8 @@
 {
   "domain": "worxlandroidcloud",
   "name": "LandroidCloud",
-  "documentation": "https://github.com/home-assistant/example-custom-config/tree/master/custom_components/example_sensor/",
+  "documentation": "https://github.com/awegg/hass-worxlandroidcloud",
   "dependencies": [],
   "codeowners": [],
-  "requirements": []
+  "requirements": ["landroidcc"]
 }

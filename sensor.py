@@ -13,6 +13,8 @@ import voluptuous as vol
 
 DOMAIN = "worxlandroidcloud"
 
+DEPENDENCIES = ['landroidcc']
+
 _LOGGER = logging.getLogger(__name__)
 
 
